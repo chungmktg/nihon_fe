@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
     <main className="p-10">
-      <h1 className="text-3xl font-bold">📚 Nihongo App</h1>
+      <h1 className="text-3xl font-bold">📚 Nihongo App learning</h1>
       <p className="text-green-600 mt-4">Backend nói: {message}</p>
     </main>
   );
