@@ -13,6 +13,7 @@ pipeline {
                 // Thêm các lệnh build dự án của bạn
                 sh 'mvn clean install' // Ví dụ với Maven
                 // hoặc npm, gradle, ...
+                // test 
             }
         }
         
